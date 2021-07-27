@@ -21,7 +21,7 @@
 <script>
     // ajax
     function send() {
-        $.post('controller.php', {
+        $.post('codeController.php', {
                 code: $("#code").val(),
             },
             function (data) {
