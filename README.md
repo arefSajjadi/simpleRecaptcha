@@ -1,2 +1,4 @@
-# simpleRecaptcha
-simple create reCAPTCHA with Php 
+# reCAPTCHA
+simple create reCAPTCHA with Php & Ajax
+
+> just serve it, enjoy!
